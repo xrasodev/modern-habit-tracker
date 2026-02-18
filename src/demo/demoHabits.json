@@ -1,0 +1,44 @@
+[
+  {
+    "id": "demo-1",
+    "name": "💻 Deep Work",
+    "description": "High-intensity coding and problem solving",
+    "targetTimeMinutes": 240,
+    "color": "indigo-600"
+  },
+  {
+    "id": "demo-2",
+    "name": "🏋️‍♂️ Physical Training",
+    "description": "Strength and conditioning session",
+    "targetTimeMinutes": 60,
+    "color": "rose-500"
+  },
+  {
+    "id": "demo-3",
+    "name": "📚 Tech Learning",
+    "description": "Mastering new frameworks and architectures",
+    "targetTimeMinutes": 45,
+    "color": "amber-500"
+  },
+  {
+    "id": "demo-4",
+    "name": "🧘 Meditation",
+    "description": "Mental clarity and stress reduction",
+    "targetTimeMinutes": 15,
+    "color": "sky-400"
+  },
+  {
+    "id": "demo-5",
+    "name": "📖 Reading",
+    "description": "Industry news and soft skills books",
+    "targetTimeMinutes": 30,
+    "color": "emerald-500"
+  },
+  {
+    "id": "demo-6",
+    "name": "🚶‍♂️ Active Recovery",
+    "description": "Daily walk to clear the mind",
+    "targetTimeMinutes": 45,
+    "color": "lime-600"
+  }
+]

@@ -1,0 +1,2482 @@
+[
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "09:00",
+        "sessionTimeMinutes": 245,
+        "selfRating": 5,
+        "notes": "Finished the landing page components."
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "pending",
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "18:30",
+        "sessionTimeMinutes": 50,
+        "selfRating": 4,
+        "notes": "Studied React Server Components."
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "08:15",
+        "sessionTimeMinutes": 15,
+        "selfRating": 5,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "pending",
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "pending",
+        "selfRating": 3,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "10:00",
+        "sessionTimeMinutes": 210,
+        "selfRating": 4,
+        "notes": "Refactored the authentication logic."
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "17:00",
+        "sessionTimeMinutes": 65,
+        "selfRating": 5,
+        "notes": "Strong leg day."
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "selfRating": 2,
+        "notes": "Too tired today."
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "08:00",
+        "sessionTimeMinutes": 15,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "22:00",
+        "sessionTimeMinutes": 35,
+        "selfRating": 5,
+        "notes": "Read about Clean Architecture."
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "19:00",
+        "sessionTimeMinutes": 50,
+        "selfRating": 4,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "date": "2026-01-09",
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "09:30",
+        "sessionTimeMinutes": 230,
+        "selfRating": 4,
+        "notes": "Bug fixing session"
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "18:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 5,
+        "notes": "Deep dive into TypeScript decorators"
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "missed",
+        "sessionTime": "07:30",
+        "sessionTimeMinutes": 15,
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "missed",
+        "sessionTime": "21:30",
+        "sessionTimeMinutes": 30,
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "19:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 5,
+        "notes": "Park walk"
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "08:45",
+        "sessionTimeMinutes": 250,
+        "selfRating": 5,
+        "notes": "Feature complete!"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "17:30",
+        "sessionTimeMinutes": 60,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "08:00",
+        "sessionTimeMinutes": 10,
+        "selfRating": 3,
+        "notes": "Short session"
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "20:00",
+        "sessionTimeMinutes": 50,
+        "selfRating": 4,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "10:00",
+        "sessionTimeMinutes": 180,
+        "selfRating": 3,
+        "notes": "Too many meetings"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "18:00",
+        "sessionTimeMinutes": 70,
+        "selfRating": 5,
+        "notes": "New PR on Deadlift"
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "21:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": "Skipped"
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "22:30",
+        "sessionTimeMinutes": 40,
+        "selfRating": 5,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "missed",
+        "sessionTime": "09:00",
+        "sessionTimeMinutes": 260,
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "sessionTime": "19:00",
+        "sessionTimeMinutes": 50,
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "pending",
+        "sessionTime": "08:30",
+        "sessionTimeMinutes": 15,
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "22:00",
+        "sessionTimeMinutes": 30,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "sessionTime": "18:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 1,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "missed",
+        "selfRating": 2,
+        "notes": "System downtime hindered work"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "17:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "20:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "08:00",
+        "sessionTimeMinutes": 15,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "missed",
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "09:00",
+        "sessionTimeMinutes": 240,
+        "selfRating": 5,
+        "notes": "Sunday sprint"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "11:00",
+        "sessionTimeMinutes": 90,
+        "selfRating": 5,
+        "notes": "Full body workout"
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "21:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 5,
+        "notes": "Finished the book!"
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "16:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": "Day off"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "missed",
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "missed",
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "12:00",
+        "sessionTimeMinutes": 120,
+        "selfRating": 5,
+        "notes": "Mountain hike"
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "10:00",
+        "sessionTimeMinutes": 200,
+        "selfRating": 4,
+        "notes": "Planning the quarter"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "18:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "20:30",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "08:00",
+        "sessionTimeMinutes": 15,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "22:00",
+        "sessionTimeMinutes": 30,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "17:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": "New Year's Day - Rested"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "11:00",
+        "sessionTimeMinutes": 20,
+        "selfRating": 5,
+        "notes": "Yearly intentions meditation"
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "20:00",
+        "sessionTimeMinutes": 40,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "16:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 5,
+        "notes": "First walk of the year"
+      }
+    ]
+  },
+  {
+    "entries": []
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "09:00",
+        "sessionTimeMinutes": 250,
+        "selfRating": 5,
+        "notes": "Intense coding session on the API"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "18:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "20:00",
+        "sessionTimeMinutes": 50,
+        "selfRating": 5,
+        "notes": "Mastering CSS Grid"
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "selfRating": 2,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "19:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "09:30",
+        "sessionTimeMinutes": 240,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "17:30",
+        "sessionTimeMinutes": 60,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "pending",
+        "selfRating": 1,
+        "notes": "Internet connection issues"
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "08:00",
+        "sessionTimeMinutes": 15,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "22:30",
+        "sessionTimeMinutes": 30,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "selfRating": 2,
+        "notes": "Raining heavily"
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "missed",
+        "selfRating": 2,
+        "notes": "Family event"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "missed",
+        "sessionTime": "10:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "missed",
+        "sessionTime": "09:00",
+        "sessionTimeMinutes": 10,
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "missed",
+        "sessionTime": "23:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 5,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "11:30",
+        "sessionTimeMinutes": 90,
+        "selfRating": 5,
+        "notes": "Long Sunday walk"
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "09:00",
+        "sessionTimeMinutes": 270,
+        "selfRating": 5,
+        "notes": "Focus on responsive design"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "18:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "20:30",
+        "sessionTimeMinutes": 60,
+        "selfRating": 4,
+        "notes": "Next.js routing"
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "08:15",
+        "sessionTimeMinutes": 15,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "missed",
+        "selfRating": 2,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "17:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "10:00",
+        "sessionTimeMinutes": 200,
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "missed",
+        "selfRating": 2,
+        "notes": "Sore muscles"
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "19:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "08:00",
+        "sessionTimeMinutes": 15,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "22:00",
+        "sessionTimeMinutes": 30,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "18:00",
+        "sessionTimeMinutes": 50,
+        "selfRating": 4,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "missed",
+        "sessionTime": "09:00",
+        "sessionTimeMinutes": 260,
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "sessionTime": "19:00",
+        "sessionTimeMinutes": 50,
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "08:30",
+        "sessionTimeMinutes": 15,
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "22:00",
+        "sessionTimeMinutes": 30,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "sessionTime": "18:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 1,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "missed",
+        "selfRating": 2,
+        "notes": "System downtime hindered work"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "17:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "20:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "08:00",
+        "sessionTimeMinutes": 15,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "missed",
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "09:00",
+        "sessionTimeMinutes": 240,
+        "selfRating": 5,
+        "notes": "Sunday sprint"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "11:00",
+        "sessionTimeMinutes": 90,
+        "selfRating": 5,
+        "notes": "Full body workout"
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "21:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 5,
+        "notes": "Finished the book!"
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "16:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": "Day off"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "missed",
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "missed",
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "12:00",
+        "sessionTimeMinutes": 120,
+        "selfRating": 5,
+        "notes": "Mountain hike"
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "10:00",
+        "sessionTimeMinutes": 200,
+        "selfRating": 4,
+        "notes": "Planning the quarter"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "18:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "20:30",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "08:00",
+        "sessionTimeMinutes": 15,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "22:00",
+        "sessionTimeMinutes": 30,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "17:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": "New Year's Day - Rested"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "11:00",
+        "sessionTimeMinutes": 20,
+        "selfRating": 5,
+        "notes": "Yearly intentions meditation"
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "20:00",
+        "sessionTimeMinutes": 40,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "16:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 5,
+        "notes": "First walk of the year"
+      }
+    ]
+  },
+  {
+    "entries": []
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "09:00",
+        "sessionTimeMinutes": 250,
+        "selfRating": 5,
+        "notes": "Intense coding session on the API"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "18:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "20:00",
+        "sessionTimeMinutes": 50,
+        "selfRating": 5,
+        "notes": "Mastering CSS Grid"
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "selfRating": 2,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "19:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "09:30",
+        "sessionTimeMinutes": 240,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "17:30",
+        "sessionTimeMinutes": 60,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "pending",
+        "selfRating": 1,
+        "notes": "Internet connection issues"
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "08:00",
+        "sessionTimeMinutes": 15,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "22:30",
+        "sessionTimeMinutes": 30,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "selfRating": 2,
+        "notes": "Raining heavily"
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "missed",
+        "selfRating": 2,
+        "notes": "Family event"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "missed",
+        "sessionTime": "10:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "missed",
+        "sessionTime": "09:00",
+        "sessionTimeMinutes": 10,
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "missed",
+        "sessionTime": "23:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 5,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "11:30",
+        "sessionTimeMinutes": 90,
+        "selfRating": 5,
+        "notes": "Long Sunday walk"
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "09:00",
+        "sessionTimeMinutes": 270,
+        "selfRating": 5,
+        "notes": "Focus on responsive design"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "18:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "20:30",
+        "sessionTimeMinutes": 60,
+        "selfRating": 4,
+        "notes": "Next.js routing"
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "08:15",
+        "sessionTimeMinutes": 15,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "missed",
+        "selfRating": 2,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "17:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "10:00",
+        "sessionTimeMinutes": 200,
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "missed",
+        "selfRating": 2,
+        "notes": "Sore muscles"
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "19:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "08:00",
+        "sessionTimeMinutes": 15,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "22:00",
+        "sessionTimeMinutes": 30,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "18:00",
+        "sessionTimeMinutes": 50,
+        "selfRating": 4,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "missed",
+        "sessionTime": "09:00",
+        "sessionTimeMinutes": 260,
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "sessionTime": "19:00",
+        "sessionTimeMinutes": 50,
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "missed",
+        "sessionTime": "08:30",
+        "sessionTimeMinutes": 15,
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "22:00",
+        "sessionTimeMinutes": 30,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "sessionTime": "18:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 1,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "missed",
+        "selfRating": 2,
+        "notes": "System downtime hindered work"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "17:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "20:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "08:00",
+        "sessionTimeMinutes": 15,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "missed",
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "09:00",
+        "sessionTimeMinutes": 240,
+        "selfRating": 5,
+        "notes": "Sunday sprint"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "11:00",
+        "sessionTimeMinutes": 90,
+        "selfRating": 5,
+        "notes": "Full body workout"
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "21:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 5,
+        "notes": "Finished the book!"
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "16:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": "Day off"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "missed",
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "missed",
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "12:00",
+        "sessionTimeMinutes": 120,
+        "selfRating": 5,
+        "notes": "Mountain hike"
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "10:00",
+        "sessionTimeMinutes": 200,
+        "selfRating": 4,
+        "notes": "Planning the quarter"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "18:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "20:30",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "08:00",
+        "sessionTimeMinutes": 15,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "22:00",
+        "sessionTimeMinutes": 30,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "17:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": "New Year's Day - Rested"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "11:00",
+        "sessionTimeMinutes": 20,
+        "selfRating": 5,
+        "notes": "Yearly intentions meditation"
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "20:00",
+        "sessionTimeMinutes": 40,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "16:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 5,
+        "notes": "First walk of the year"
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "20:00",
+        "sessionTimeMinutes": 40,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "16:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 5,
+        "notes": "First walk of the year"
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "09:00",
+        "sessionTimeMinutes": 250,
+        "selfRating": 5,
+        "notes": "Intense coding session on the API"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "18:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "20:00",
+        "sessionTimeMinutes": 50,
+        "selfRating": 5,
+        "notes": "Mastering CSS Grid"
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "selfRating": 2,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "19:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "09:30",
+        "sessionTimeMinutes": 240,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "17:30",
+        "sessionTimeMinutes": 60,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "selfRating": 3,
+        "notes": "Internet connection issues"
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "08:00",
+        "sessionTimeMinutes": 15,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "22:30",
+        "sessionTimeMinutes": 30,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "selfRating": 2,
+        "notes": "Raining heavily"
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "missed",
+        "selfRating": 2,
+        "notes": "Family event"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "missed",
+        "sessionTime": "10:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "missed",
+        "selfRating": 1,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "missed",
+        "sessionTime": "09:00",
+        "sessionTimeMinutes": 10,
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "missed",
+        "sessionTime": "23:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 5,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "11:30",
+        "sessionTimeMinutes": 90,
+        "selfRating": 5,
+        "notes": "Long Sunday walk"
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "09:00",
+        "sessionTimeMinutes": 270,
+        "selfRating": 5,
+        "notes": "Focus on responsive design"
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "completed",
+        "sessionTime": "18:00",
+        "sessionTimeMinutes": 60,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "20:30",
+        "sessionTimeMinutes": 60,
+        "selfRating": 4,
+        "notes": "Next.js routing"
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "08:15",
+        "sessionTimeMinutes": 15,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "missed",
+        "selfRating": 2,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "17:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      }
+    ]
+  },
+  {
+    "entries": [
+      {
+        "habitId": "demo-1",
+        "habitName": "💻 Deep Work",
+        "color": "indigo-600",
+        "targetTimeMinutes": 240,
+        "status": "completed",
+        "sessionTime": "10:00",
+        "sessionTimeMinutes": 200,
+        "selfRating": 3,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-2",
+        "habitName": "🏋️‍♂️ Physical Training",
+        "color": "rose-500",
+        "targetTimeMinutes": 60,
+        "status": "missed",
+        "selfRating": 2,
+        "notes": "Sore muscles"
+      },
+      {
+        "habitId": "demo-3",
+        "habitName": "📚 Tech Learning",
+        "color": "amber-500",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "19:00",
+        "sessionTimeMinutes": 45,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-4",
+        "habitName": "🧘 Meditation",
+        "color": "sky-400",
+        "targetTimeMinutes": 15,
+        "status": "completed",
+        "sessionTime": "08:00",
+        "sessionTimeMinutes": 15,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-5",
+        "habitName": "📖 Reading",
+        "color": "emerald-500",
+        "targetTimeMinutes": 30,
+        "status": "completed",
+        "sessionTime": "22:00",
+        "sessionTimeMinutes": 30,
+        "selfRating": 4,
+        "notes": ""
+      },
+      {
+        "habitId": "demo-6",
+        "habitName": "🚶‍♂️ Active Recovery",
+        "color": "lime-600",
+        "targetTimeMinutes": 45,
+        "status": "completed",
+        "sessionTime": "18:00",
+        "sessionTimeMinutes": 50,
+        "selfRating": 4,
+        "notes": ""
+      }
+    ]
+  }
+]
